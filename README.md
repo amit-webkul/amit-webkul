@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
+
+![An image of @7392's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amitwebkul )
+
+
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amit-webkul" alt="amit-webkul" /></a> </p>
