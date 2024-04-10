@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/amit-webkul?tab=repositories](https://github.com/amit-webkul?tab=repositories)
 
-- 💬 Ask me about **Laravel 11, php, Bootstrap, Vue js, Boolma, Javascript, Tailwind css, Bagisto**
+- 💬 Ask me about **Laravel 11, php, Bootstrap, Vue js, Bulma, Javascript, Tailwind css, Bagisto**
 
 - 📫 How to reach me **amitkumar.laravel358@webkul.in**
 
