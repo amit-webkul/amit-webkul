@@ -4,11 +4,6 @@
 An experienced and passionate full-stack developer, I bring over three years of expertise in creating cutting-edge web applications and robust backend systems. My specialty lies in harnessing the power of modern web technologies to transform intricate problems into sleek, efficient solutions. With a proven track record of success, I am dedicated to delivering innovative and reliable software solutions.
 
 ### 🚀 Professional Profile
-- **Experience:** 3+ years in software development
-- **Expertise:** Web & Application Development
-- **Focus:** Creating scalable, performant digital solutions
-
-### 🚀 Professional Profile
 
 - **Experience:** 3+ years of hands-on software development, with a proven track record of delivering high-quality projects.
 - **Expertise:** Specialized in web and application development, proficient in a range of modern programming languages and frameworks.
